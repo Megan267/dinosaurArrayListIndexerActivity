@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "dinosaurArrayListIndexerActivity": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

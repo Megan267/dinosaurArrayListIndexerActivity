@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="dinosaurArrayListIndexerActivity/prjIndexers.csproj" />
+  <Project Path="prjArrayList/prjArrayList.csproj" />
+</Solution>

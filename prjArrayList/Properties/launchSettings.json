@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "prjArrayList": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
